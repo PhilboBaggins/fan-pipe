@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Fan pipe - TopBottom.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <title
+     id="title1033">Fan pipe - Sides.svg</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="104.87241"
+     inkscape:cx="101.2427"
+     inkscape:zoom="2.7268182"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide852"
+       orientation="-1,0"
+       position="8,302" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide854"
+       orientation="-1,0"
+       position="58,270.70486" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide856"
+       orientation="0,1"
+       position="-5,289" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide858"
+       orientation="0,1"
+       position="-5,239" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false"
+       inkscape:label=""
+       id="guide1196"
+       orientation="-1,0"
+       position="33,300.00794" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fan pipe - Sides.svg</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       transform="scale(0.26458333)"
+       d="M 40.884766 0 C 39.172844 -5.9211895e-16 37.794922 1.3779251 37.794922 3.0898438 L 37.794922 11.337891 L 14.271484 11.337891 C 12.646147 11.337891 11.337891 12.646147 11.337891 14.271484 L 11.337891 37.794922 L 2.25 37.794922 C 1.0039079 37.794922 0 38.798827 0 40.044922 L 0 209.4043 C 0 210.65039 1.0039079 211.6543 2.25 211.6543 L 11.337891 211.6543 L 11.337891 235.17578 C 11.337891 236.80112 12.646147 238.10938 14.271484 238.10938 L 37.794922 238.10938 L 37.794922 246.9707 C 37.794922 248.34411 38.900029 249.44922 40.273438 249.44922 L 209.17383 249.44922 C 210.54724 249.44922 211.6543 248.34411 211.6543 246.9707 L 211.6543 238.10938 L 235.17578 238.10938 C 236.80112 238.10938 238.10938 236.80112 238.10938 235.17578 L 238.10938 211.6543 L 247.19922 211.6543 C 248.44531 211.6543 249.44922 210.65039 249.44922 209.4043 L 249.44922 40.044922 C 249.44922 38.798827 248.44531 37.794922 247.19922 37.794922 L 238.10938 37.794922 L 238.10938 14.271484 C 238.10938 12.646147 236.80112 11.337891 235.17578 11.337891 L 211.6543 11.337891 L 211.6543 3.0898438 C 211.6543 1.3779251 210.27442 0 208.5625 0 L 40.884766 0 z "
+       style="fill:#ff5555;stroke:none;stroke-width:3.29814;stroke-opacity:0.281125"
+       id="rect835" />
+    <circle
+       r="2"
+       cy="8"
+       cx="8"
+       id="path833"
+       style="fill:#55ddff;stroke:none;stroke-width:0.0686218;stroke-opacity:0.281125" />
+    <circle
+       r="2"
+       style="fill:#55ddff;stroke:none;stroke-width:0.0686219;stroke-opacity:0.281125"
+       id="path833-1"
+       cx="8"
+       cy="58" />
+    <circle
+       style="fill:#55ddff;stroke:none;stroke-width:0.0686218;stroke-opacity:0.281125"
+       id="path833-4"
+       cx="58"
+       cy="8"
+       r="2" />
+    <circle
+       cy="58"
+       cx="58"
+       id="path833-1-0"
+       style="fill:#55ddff;stroke:none;stroke-width:0.0686218;stroke-opacity:0.281125"
+       r="2" />
+    <path
+       transform="scale(0.26458333)"
+       d="M 124.72461 30.236328 A 94.488189 94.488189 0 0 0 113.38672 30.919922 L 113.38672 218.5293 A 94.488189 94.488189 0 0 0 124.72461 219.21289 A 94.488189 94.488189 0 0 0 136.0625 218.5293 L 136.0625 30.917969 A 94.488189 94.488189 0 0 0 124.72461 30.236328 z M 143.62109 32.144531 L 143.62109 217.30273 A 94.488189 94.488189 0 0 0 166.29883 209.57422 L 166.29883 39.875 A 94.488189 94.488189 0 0 0 143.62109 32.144531 z M 105.82617 32.146484 A 94.488189 94.488189 0 0 0 83.150391 39.875 L 83.150391 209.57422 A 94.488189 94.488189 0 0 0 105.82617 217.30273 L 105.82617 32.146484 z M 173.85742 44.015625 L 173.85742 205.43164 A 94.488189 94.488189 0 0 0 196.53516 186.13477 L 196.53516 63.316406 A 94.488189 94.488189 0 0 0 173.85742 44.015625 z M 75.589844 44.017578 A 94.488189 94.488189 0 0 0 52.914062 63.314453 L 52.914062 186.13477 A 94.488189 94.488189 0 0 0 75.589844 205.43164 L 75.589844 44.017578 z M 204.09375 73.457031 L 204.09375 175.99414 A 94.488189 94.488189 0 0 0 219.21289 124.72461 A 94.488189 94.488189 0 0 0 204.09375 73.457031 z M 45.353516 73.458984 A 94.488189 94.488189 0 0 0 30.236328 124.72461 A 94.488189 94.488189 0 0 0 45.353516 175.98828 L 45.353516 73.458984 z "
+       style="fill:#55ddff;stroke:none;stroke-width:3.24283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.281125"
+       id="path833-15" />
+  </g>
+</svg>
