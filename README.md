@@ -16,3 +16,5 @@ A complete system consists of:
 * 1 60 mm computer fan
 * TODO: Some kind of glue
 * TODO: Anything else???
+
+Can be used with <https://github.com/PhilboBaggins/fan-supply>
